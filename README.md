@@ -1,2 +1,2 @@
 # gradebook-app
-Individual python Gradebook app, July 2024
+ALU-python Gradebook app, July 2024
